@@ -1,6 +1,10 @@
 package com.thoughtworks.battleship;
 
 
+/**
+ * @author abhilashjain
+ *
+ */
 public class BattleShipException extends Exception {
 
 	/**

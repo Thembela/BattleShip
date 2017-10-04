@@ -3,6 +3,10 @@ package com.thoughtworks.battleship;
 import java.util.List;
 
 
+/**
+ * @author abhilashjain
+ *
+ */
 public class BattleArea {
 
 	private BattleArea() {

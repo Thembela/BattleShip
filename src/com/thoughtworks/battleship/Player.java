@@ -4,6 +4,10 @@ import java.util.List;
 
 
 
+/**
+ * @author abhilashjain
+ *
+ */
 public class Player {
 
 	private String name;

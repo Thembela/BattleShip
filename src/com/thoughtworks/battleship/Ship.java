@@ -4,6 +4,10 @@ import java.util.HashMap;
 import java.util.Map;
 
 
+/**
+ * @author abhilashjain
+ *
+ */
 public class Ship {
 
 	private Coordinate size;

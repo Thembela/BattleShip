@@ -1,8 +1,17 @@
 package com.thoughtworks.battleship;
 
 
+/**
+ * @author abhilashjain
+ *
+ */
 public class Validation {
 
+	/**
+	 * @param battleArea
+	 * @param location
+	 * @throws BattleShipException
+	 */
 	static void validateLocation(BattleArea battleArea, String location) throws BattleShipException
 	{
 		Coordinate area = battleArea.getBoard();
